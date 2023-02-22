@@ -1,0 +1,15 @@
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.csproj.AssemblyReference.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.AssemblyInfoInputs.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.AssemblyInfo.cs
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\bin\Debug\net6.0\Assignment01.exe
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\bin\Debug\net6.0\Assignment01.deps.json
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\bin\Debug\net6.0\Assignment01.runtimeconfig.json
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\bin\Debug\net6.0\Assignment01.dll
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\bin\Debug\net6.0\Assignment01.pdb
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.dll
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\refint\Assignment01.dll
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.pdb
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\Assignment01.genruntimeconfig.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\Assignment01\obj\Debug\net6.0\ref\Assignment01.dll
