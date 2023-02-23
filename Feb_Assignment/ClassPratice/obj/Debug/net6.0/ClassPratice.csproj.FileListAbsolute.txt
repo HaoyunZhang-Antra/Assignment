@@ -1,0 +1,15 @@
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\bin\Debug\net6.0\ClassPratice.exe
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\bin\Debug\net6.0\ClassPratice.deps.json
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\bin\Debug\net6.0\ClassPratice.runtimeconfig.json
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\bin\Debug\net6.0\ClassPratice.dll
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\bin\Debug\net6.0\ClassPratice.pdb
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.csproj.AssemblyReference.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.AssemblyInfoInputs.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.AssemblyInfo.cs
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.csproj.CoreCompileInputs.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.dll
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\refint\ClassPratice.dll
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.pdb
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ClassPratice.genruntimeconfig.cache
+C:\Users\haoyun\source\repos\Feb_Assignment\ClassPratice\obj\Debug\net6.0\ref\ClassPratice.dll
