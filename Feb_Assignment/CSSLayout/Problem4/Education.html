@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eudcation page</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <div class="wrapper">
+        <!--This part is navigation bar-->
+        <header class="main-head">
+            <div class="person">
+                <nav>
+                    <h2 class="logo">Haoyun Zhang's <span>Biography</span></h2>
+                    <!--This part is navigation bar-->
+                    <ul>
+                        <li><a href="Home.html" target="_blank">Home</a></li>
+                        <li><a href="About.html" target="_blank">About me</a></li>
+                        <li><a href="Education.html" target="_blank">Education</a></li>
+                        <li><a href="Projects.html" target="_blank">Projects</a></li>
+                    </ul>
+                    <a href="https://www.linkedin.com/in/haoyun-zhang-196959214/" class="btn">Connect Me</a>
+                </nav>
+                <div class="education">
+                    <div class="title">
+                        <h2>Haoyun Zhang's Education</h2>
+                    </div>
+                    
+                    <div class="box">
+                        <div class="card">
+                            <!--use a image as logo-->
+                            <img src="images/BU_logo.jpg" alt="BU_logo" width="136" height="100">
+                            <h5>Boston University</h5>
+                            <h5>M.S. Computer Science</h5>
+                            <div class="pra">
+                                <p>I have taken two semesters of courses and you can see my transcript here. </p>
+                                <p style="text-align: center;">
+                                    <a class="button" href="https://www.bu.edu/">BU Homepage</a>
+                                </p>
+                            </div>
+                        </div>
+    
+                        <div class="box">
+                            <div class="card">
+                                <!--use a image as logo-->
+                                <img src="images/GDUT_logo.png" alt="GDUT_logo" width="110" height="100">
+                                <h5>GDUT</h5>
+                                <h5>B.S. Computer Science</h5>
+                                <div class="pra">
+                                    <p>You can see all the courses I took when I was an undergraduate and brief introduction of GDUT.</p>
+                                    <p style="text-align: center;">
+                                        <a class="button" href="https://english.gdut.edu.cn/">GDUT Homepage</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </header>
+        <nav class="main-navi" style="padding-top: 0;padding-left: 0%;padding-right: 0%;">
+            <div class="pass">
+                <p style="font-size: 55px; text-align: center;">Read more!</p>
+            </div>
+        </nav>
+
+
+
+        <article class="content">
+            <!--Master degree: Boston University-->
+            <div class="educationpage">
+                <h2>Boston University, Boston, MA
+                    <br>
+                    M.S. Computer Science
+                </h2>
+                <!--use a image as logo-->
+                <img src="images/BU_logo.jpg" alt="BU_logo" width="136" height="102">
+                <br>
+                <!--this is one external hyperlink-->
+                <a href="https://www.bu.edu/">Boston University Homepage</a>
+                <h3>Courses:</h3>
+                <!--use a table to specify courses and grades-->
+                <table>
+                    <caption><b>Courses has been taken</b></caption>
+                    <thead>
+                        <tr>
+                            <th>Course Number</th>
+                            <th>Course Name</th>
+                            <th>Grades</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>CS 566</td>
+                            <td>Analysis of Algorithm</td>
+                            <td>A</td>
+                        </tr>
+                        <tr>
+                            <td>CS 575</td>
+                            <td>Operating System</td>
+                            <td>A</td>
+                        </tr>
+                        <tr>
+                            <td>CS 662</td>
+                            <td>Computer Language Theory</td>
+                            <td>B</td>
+                        </tr>
+                        <tr>
+                            <td>CS 579</td>
+                            <td>Database Management</td>
+                            <td>A-</td>
+                        </tr>
+                        <tr>
+                            <td>CS 673</td>
+                            <td>Software Engineering</td>
+                            <td>A-</td>
+                        </tr>
+                        <tr>
+                            <td>CS 677</td>
+                            <td>Data Science with Python</td>
+                            <td>A-</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!--put a video to introduce BU-->
+                <div class="video-box">
+                    <h3>Video: Welcome to Boston University</h3>
+                    <video controls>
+                        <source src="video/BU.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+
+            <!--Bachelor degree-->
+            <div class="educationpage">
+                <h2>Guangdong University of Technology, Guangdong, China
+                    <br>
+                    B.S. in Computer Science
+                </h2>
+                <!--use a image as logo-->
+                <img src="images/GDUT_logo.png" alt="GDUT_logo" width="136" height="130">
+                <br>
+                <!--this is one external hyperlink-->
+                <a href="https://english.gdut.edu.cn/">Guangdong University of Technology Homepage</a>
+                <!--use a list to display courses-->
+                <dl>
+                    <dt style="color: #f9004d;font-size: 45px;">Courses:</dt>
+                    <dd style="color: white;">
+                        Software Engineering, Database System, Data Structure, Computer System Architecture, Computer Network, Program Design in C, JAVA Programming, Principles of Compiler, 
+                        <br>
+                        Artificial Intelligence, Data Mining, Principle of Computer Composition, Intelligent Mobile Platform System, Intelligent Mobile Platform Application Development
+                    </dd>
+                </dl>
+            </div>
+            
+            <div class="intro">
+                <h3>Introduction</h3>
+                <p>
+                    Guangdong University of Technology (English: Guangdong University of Technology , abbreviation : GDUT ), abbreviated as Guanggong University , Guangzhou University of Technology , 
+                    is a public engineering research university in mainland China , located in Guangzhou and Jieyang, Guangdong Province , the People's Republic of China , 
+                    affiliated to Guangdong Province Department of Education . [3] Guangdong University of Technology was founded in 1958. 
+                    It has now developed into a university with engineering as its main subject and a multi-disciplinary and coordinated development of engineering, economics, management, literature, law and art. 
+                    It is a “211 Project” university in Guangdong Province, and there are currently 13 high- level universities in Guangdong Province. one.
+                    <br>
+                    The history of Guangdong University of Technology can be traced back to Guangzhou Higher Technical School in 1942. Its predecessor, Guangdong Institute of Technology, 
+                    was founded in 1958 on the basis of Guangzhou Higher Industrial School. The first party secretary and dean of the school was Zeng Zhi ; in 1962, 
+                    the school developed into Guangdong Institute of Technology, with Mai Yunyu as the head. In 1970, due to the influence of the Cultural Revolution , the school moved to Qujiang , Shaoguan , 
+                    and was renamed Guangdong Institute of Mining and Metallurgy; in 1982, the school moved back to Guangzhou, renamed Guangdong Institute of Technology, and resumed the original site; in 1995, 
+                    Guangdong Institute of Technology and Guangdong Institute of Mechanical Engineering , the East Institute of South China Construction Institute was established as Guangdong University of Technology.
+                </p>
+                
+                <!--try to use new features article-->
+                <article>
+                    <h3>School of Computer Science</h3>
+                    <p>
+                        The School of Computer Science of Guangdong University of Technology is a secondary college under Guangdong University of Technology and a member of the Guangdong Province 
+                        Supercomputing Application Technology Innovation Alliance.
+                    </p>
+                    <p>
+                        In 1984, the school established the computer application major. In 1990, the Department of Computer Science and Engineering of Guangdong Institute of Technology was established. 
+                        In 2000, the School of Computer Science of Guangdong University of Technology was established.
+                    </p>
+                    <p>
+                        According to the official website of the college in August 2021, the college has 4 teaching departments and 5 undergraduate majors; there are 1 second-level discipline doctoral program, 
+                        2 first-level discipline master programs, 2 engineering master degree fields, and 2 professional degrees. There are 133 faculty members, including 23 professors, 34 associate professors, 
+                        8 doctoral supervisors, 63 master supervisors, and 82 teachers with doctoral degrees; there are 3972 students, including 3250 undergraduates , 722 graduate students.
+                    </p>
+                </article>
+            </div>
+        </article>
+        
+    </div>
+</body>
+</html>
