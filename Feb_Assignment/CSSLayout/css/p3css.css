@@ -2,19 +2,24 @@ body {
   margin: 0;
   padding: 0px;
 }
+
+.logo a img {
+  height: 200px;
+}
+
 #carousel {
-  margin: auto; /* 居中 */
-  width: 600px; /* 设置宽度 */
-  position: relative; /* 相对定位 */
-  overflow: hidden; /* 超出隐藏 */
+  margin: auto;
+  width: 600px;
+  position: relative;
+  overflow: hidden;
   height: 300px;
 }
 #carousel img {
-  width: 600px; /* 设定大小 按比例缩放 */
+  width: 600px;
 }
 #carousel > ul {
-  display: flex; /* 图片处理为一行 */
-  position: absolute; /* 设置绝对定位，实现相对于#carousel的绝对定位 */
+  display: flex;
+  position: absolute;
 }
 #carousel > ul,
 #carousel > ul > li {
@@ -24,15 +29,14 @@ body {
 }
 
 #carousel > ul {
-  animation: switch 10s ease 1s infinite alternate; /* 设定动画播放 */
+  animation: switch 10s ease 1s infinite alternate;
 }
 
 #carousel > ul:hover {
-  animation-play-state: paused; /* 暂停动画 */
+  animation-play-state: paused;
 }
 
 @keyframes switch {
-  /* 制定动画规则 */
   0%,
   13% {
     left: 0;
@@ -65,5 +69,4 @@ body {
 .news h2 {
   display: flex;
   justify-content: center;
-  /* align-content: center; */
 }
